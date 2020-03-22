@@ -1,0 +1,38 @@
+.left-side {
+  flex: 0 0 60%;
+}
+
+.banner {
+  background-image: url("../../images/coding.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: space-around;
+  height: 200px;
+}
+
+#ftitle {
+  font-size: 220%;
+  font-weight: lighter;
+  padding: 80px 25px;
+  color: white;
+  margin: 0 auto;
+}
+
+.icon-title {
+  padding: 5px 80px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.icon {
+  width: 30%;
+  height: auto;
+  padding: 20px 44px;
+}
+
+.icon-box {
+  box-shadow: 0 10px 10px rgba(0,0,0,.1);
+  margin: 30px auto;
+  padding: 30px 30px;
+}

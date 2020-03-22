@@ -1,0 +1,37 @@
+.header-container {
+  position: sticky;
+  top: 0;
+}
+
+.header-logo {
+  background-color: #b23430;
+  text-align: center;
+  padding: 30px 15px;
+}
+
+.sub-header {
+  background-color: #F7F7F7;
+  text-align: center;
+  padding: 40px 15px;
+}
+
+#logo {
+  width: 10%;
+  height: auto;
+}
+
+#logo:hover {
+  opacity: 0.8;
+}
+
+.footer {
+  background-color: black;
+  padding: 30px 15px;
+  height: 100px;
+}
+
+.contact {
+  font-size: 130%;
+  color: white;
+  font-weight: bold;
+}
